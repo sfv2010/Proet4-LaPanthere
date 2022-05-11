@@ -808,7 +808,7 @@ footer p {
 .p-r {
     position: relative;
 }
-.hover:hover {
+.hover:hover{
     color: blue;
     font-weight: bold;
 }
